@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python`**
 
-Me chamo Enrico Bertolucci, tenho 27 anos, sou natural do Rio Grande do Sul. Sou apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Uninter. Atualmente trabalho com Turismo porém procuro uma oportunidade para por em prática os conhecimentos adiquiridos no curso.
+Me chamo Enrico Bertolucci, tenho 27 anos, sou natural do Rio Grande do Sul. Sou apaixonado por tecnologia e estou em transição para a área. Cursando Análise e Desenvolvimento de Sistemas, busco aplicar minhas habilidades interpessoais, raciocínio lógico e dedicação no desenvolvimento de soluções digitais.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/enrico-bertolucci">
