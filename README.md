@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Enrico Bertolucci, tenho 27 anos, sou natural do Rio Grande do Sul. Sou apaixonado por tecnologia e estou em transição para a área. Cursando Análise e Desenvolvimento de Sistemas, busco aplicar minhas habilidades interpessoais, raciocínio lógico e dedicação no desenvolvimento de soluções digitais.</p>
+<p align="left">Me chamo Enrico Bertolucci, tenho 27 anos e sou natural do Rio Grande do Sul. Sou apaixonado por tecnologia e atuo na área de Business Intelligence, com foco em análise de dados. Estou cursando Análise e Desenvolvimento de Sistemas e busco aplicar minhas habilidades interpessoais, raciocínio lógico e dedicação na construção de soluções digitais que gerem valor e apoiem a tomada de decisão.</p>
 
 ###
 
